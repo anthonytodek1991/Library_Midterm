@@ -1,0 +1,11 @@
+C:\Users\tonyt\source\repos\LibraryMidterm\LibraryMidterm\bin\Debug\netcoreapp2.1\LibraryMidterm.deps.json
+C:\Users\tonyt\source\repos\LibraryMidterm\LibraryMidterm\bin\Debug\netcoreapp2.1\LibraryMidterm.runtimeconfig.json
+C:\Users\tonyt\source\repos\LibraryMidterm\LibraryMidterm\bin\Debug\netcoreapp2.1\LibraryMidterm.runtimeconfig.dev.json
+C:\Users\tonyt\source\repos\LibraryMidterm\LibraryMidterm\bin\Debug\netcoreapp2.1\LibraryMidterm.dll
+C:\Users\tonyt\source\repos\LibraryMidterm\LibraryMidterm\bin\Debug\netcoreapp2.1\LibraryMidterm.pdb
+C:\Users\tonyt\source\repos\LibraryMidterm\LibraryMidterm\obj\Debug\netcoreapp2.1\LibraryMidterm.csprojAssemblyReference.cache
+C:\Users\tonyt\source\repos\LibraryMidterm\LibraryMidterm\obj\Debug\netcoreapp2.1\LibraryMidterm.csproj.CoreCompileInputs.cache
+C:\Users\tonyt\source\repos\LibraryMidterm\LibraryMidterm\obj\Debug\netcoreapp2.1\LibraryMidterm.AssemblyInfoInputs.cache
+C:\Users\tonyt\source\repos\LibraryMidterm\LibraryMidterm\obj\Debug\netcoreapp2.1\LibraryMidterm.AssemblyInfo.cs
+C:\Users\tonyt\source\repos\LibraryMidterm\LibraryMidterm\obj\Debug\netcoreapp2.1\LibraryMidterm.dll
+C:\Users\tonyt\source\repos\LibraryMidterm\LibraryMidterm\obj\Debug\netcoreapp2.1\LibraryMidterm.pdb
